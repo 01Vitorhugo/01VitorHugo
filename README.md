@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Vitorhugo&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -17,5 +19,7 @@
   <img align="center" alt="Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   
 </div>
+
+### Apaixonado por tecnologia e focado em aprender coisas novas
 
 
