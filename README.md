@@ -2,9 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-9b3b63243/)
 
+<div style="display: inline_block"><br/>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Vitorhugo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
+  
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
