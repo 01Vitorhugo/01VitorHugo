@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/vitorhugodev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:vitorhhugo0031@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -70,8 +70,8 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Vitorhugo&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Vitor Hugo" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Vitorhugo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=01Vitorhugo&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Vitor Hugo" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=01Vitorhugo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="190px" />
 </div>
 
 ---
