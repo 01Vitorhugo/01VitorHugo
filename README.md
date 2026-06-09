@@ -33,7 +33,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no 4º semestre e at
 
 Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvimento:
 
-#### 💻 Frontend (Web / Desktop / Mobile)
 <p align="left">
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
@@ -44,8 +43,20 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
   <a href="https://tauri.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
   </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://tanstack.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -55,15 +66,14 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
   </a>
 </p>
 
-#### ⚙️ Backend & Integrações
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -74,16 +84,4 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=01Vitorhugo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="190px" />
 </div>
 
----
 
-### 🐍 Contribuições (Jogo da Cobrinha)
-
-Aqui está a animação das minhas contribuições no GitHub, gerada automaticamente pelo jogo da cobrinha diariamente:
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/01Vitorhugo/01VitorHugo/output/github-snake.svg" width="100%">
-  </picture>
-</div>
